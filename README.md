@@ -11,16 +11,7 @@ Here’s a highlight of one of my real-time Power BI projects, where I built end
 
           🍕 Pizza Sales & Call Centre Analytics – Power BI Real-Time Dashboarding
 
-          <hr>
-          <img src="https://github.com/Shaif-Khan/My-Power-BI-Project/blob/main/Office%20Analytics%20Dashboard.PNG?raw=true">
-          <hr>
-          <img src="https://github.com/Shaif-Khan/My-Power-BI-Project/blob/main/Pizza%20Sales%20Dashboard1.PNG?raw=true">
-          <hr>
-          <img src="https://github.com/Shaif-Khan/My-Power-BI-Project/blob/main/Pizza%20Sales%20Dashboard2.PNG?raw=true">
-          <hr>
-          <img src="https://github.com/Shaif-Khan/My-Power-BI-Project/blob/main/Sales%20Project%20Dashboard.png?raw=true">
-          <hr>
-
+          
 📌 Project Overview:
 
           ✅ Data Cleaning & Transformation of 45,000+ raw pizza sales records using SQL and Power Query Editor
